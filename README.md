@@ -1,4 +1,4 @@
-I'm Aaron, a software developer at [EyeCue Lab](https://eyecuelab.com) where I work on web, mobile and desktop apps mostly using javascript/typescript technolgies.  If you'd like you can also check out my [personal site](https://ashmortar.io) and [blog](https://ashmortar.io/blog).
+I'm Aaron, if you'd like you can check out my [personal site](https://ashmortar.io) and [blog](https://ashmortar.io/blog).
 
 [![Linkedin Badge](https://img.shields.io/badge/-aaronrosspdx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronrosspdx/)](https://www.linkedin.com/in/aaronrosspdx/)
 

@@ -1,31 +1,12 @@
-# Hi, I'm Aaron Ross 👋
+# Aaron Ross
 
-**Senior Software Engineer** | **Full-Stack Developer & Architect** | **Oregon, USA**
+Senior Software Engineer at [Great Expectations Labs](https://github.com/greatexpectationslabs) • Oregon, USA
 
-I build innovative applications and design scalable systems. Currently at [Great Expectations Labs](https://github.com/greatexpectationslabs) working on data quality tools, and exploring new ventures with [Anomalous Ventures](https://github.com/anomalousventures). Most of my work happens in private repositories building production applications.
+I'm a full-stack engineer who builds applications and architects systems. Most of my day-to-day work happens in private repositories at Great Expectations Labs and [Anomalous Ventures](https://github.com/anomalousventures), where I'm building data quality tools and exploring what's possible when you let AI agents write most of your code.
 
-## 🔭 Current Focus
+These days I'm particularly interested in LLM integration, agent orchestration, and modern web architectures. I've been exploring Go for backend services and experimenting with hypermedia-driven approaches (HTMX + Templ). Still love TypeScript and React for the right problems.
 
-- Architecting and building full-stack applications at Great Expectations Labs
-- Working with LLMs and agent orchestration for application development
-- Developing innovative solutions with Anomalous Ventures
-- Exploring Go for backend services, CLIs, and tooling
-- Modern web architectures (HTMX, Templ, TypeScript, React)
-- Developer experience and ephemeral environment tooling
-
-## 💼 Core Competencies
-
-**Application Development:** Full-Stack Architecture • API Design • System Design • Product Engineering
-
-**Backend Engineering:** TypeScript/Node.js • Python • Go • RESTful APIs • Distributed Systems
-
-**Frontend Engineering:** React • TypeScript • Modern Web Standards • User Experience
-
-**AI & Automation:** LLM Integration • Agent Orchestration • AI-Assisted Development
-
-**DevOps & Infrastructure:** Docker • Kubernetes • Terraform • CI/CD
-
-## 🛠️ Tech Stack
+## What I Work With
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,42 +14,29 @@ I build innovative applications and design scalable systems. Currently at [Great
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-## 🚀 Professional Work
+Also: HTMX, Templ, NestJS, Elixir (when the mood strikes), Neovim (extensively configured), and whatever else solves the problem.
 
-**Great Expectations Ecosystem:**
-- Contributor to [@great-expectations](https://github.com/great-expectations) - Leading open-source data validation framework (10K+ ⭐)
-- Building applications at [@greatexpectationslabs](https://github.com/greatexpectationslabs) - GX Cloud agent infrastructure
-- Extensive application development in private repositories
+## Notable Work
 
-**Anomalous Ventures:**
-- [reserve-me.space](https://reserve-me.space) - Live production application (built almost entirely using AI agents)
+I contribute to [@great-expectations](https://github.com/great-expectations), the leading open-source data validation framework (10K+ stars), and build applications for the GX Cloud platform at [@greatexpectationslabs](https://github.com/greatexpectationslabs).
 
-**Developer Tooling:**
-- [eph](https://github.com/ephlabs/eph) - Ephemeral environments tool (Go)
+Current live projects:
+- [reserve-me.space](https://reserve-me.space) - Restaurant reservation platform (built almost entirely with AI agents as an experiment)
+- [watchlist.fly.dev](https://watchlist.fly.dev) - Media tracking app
 
-## 🛠️ Personal Projects
-
-- **[watchlist](https://github.com/ashmortar/watchlist)** - Media tracking application ([Live Demo](https://watchlist.fly.dev)) • TypeScript/React
-- **[note-js](https://github.com/ashmortar/note-js)** - Collaborative, local-first notebook editor for JavaScript/TypeScript (Jupyter-inspired)
-- **[go-watchlist](https://github.com/ashmortar/go-watchlist)** - Media tracker rebuilt with Go and HTMX
-- **[dotfiles](https://github.com/ashmortar/dotfiles)** - Neovim and development environment configuration (actively maintained)
-- **[nestjs-core](https://github.com/ashmortar/nestjs-core)** - Backend service architecture patterns with NestJS
-- **[server-core](https://github.com/ashmortar/server-core)** - Core server application components
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Aaron_Ross-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronrosspdx/)
-[![Email](https://img.shields.io/badge/-ashmortar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashmortar@gmail.com)
+Side projects and experiments:
+- [note-js](https://github.com/ashmortar/note-js) - A collaborative, local-first notebook editor for JavaScript/TypeScript (think Jupyter, but for JS)
+- [go-watchlist](https://github.com/ashmortar/go-watchlist) - Rebuilt the watchlist app in Go + HTMX to learn both
+- [eph](https://github.com/ephlabs/eph) - Ephemeral environments tool ("What the Eph?!")
+- [dotfiles](https://github.com/ashmortar/dotfiles) - My Neovim config and development setup
 
 ---
 
+[LinkedIn](https://www.linkedin.com/in/aaronrosspdx/) • [Email](mailto:ashmortar@gmail.com)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashmortar&count_private=true&show_icons=true&include_all_commits=true&theme=default)
 
-💡 *Most of my work happens in private repositories at [@greatexpectationslabs](https://github.com/greatexpectationslabs) and [@anomalousventures](https://github.com/anomalousventures)*
+<sub>Most of my commits live in private repos at [@greatexpectationslabs](https://github.com/greatexpectationslabs) and [@anomalousventures](https://github.com/anomalousventures), so the stats don't tell the whole story.</sub>

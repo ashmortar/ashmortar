@@ -24,6 +24,7 @@ Also: HTMX, Templ, NestJS, Elixir (when the mood strikes), Neovim (extensively c
 I contribute to [@great-expectations](https://github.com/great-expectations), the leading open-source data validation framework (10K+ stars), and build applications for the GX Cloud platform at [@greatexpectationslabs](https://github.com/greatexpectationslabs).
 
 Current live projects:
+- [Tracks](https://github.com/anomalousventures/tracks) - ⚡ Go, fast. A batteries included toolkit for hypermedia servers [(docs here)](https://anomalousventures.github.io/tracks)
 - [reserve-me.space](https://reserve-me.space) - Dynamic booking platform (built almost entirely with AI agents as an experiment)
 - [watchlist.fly.dev](https://watchlist.fly.dev) - Media tracking app
 

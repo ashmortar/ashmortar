@@ -39,6 +39,4 @@ Side projects and experiments:
 
 [LinkedIn](https://www.linkedin.com/in/aaronrosspdx/) • [Email](mailto:ashmortar@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashmortar&count_private=true&show_icons=true&include_all_commits=true&theme=default)
-
 <sub>Most of my commits live in private repos at [@greatexpectationslabs](https://github.com/greatexpectationslabs) and [@anomalousventures](https://github.com/anomalousventures), so the stats don't tell the whole story.</sub>

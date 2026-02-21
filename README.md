@@ -2,9 +2,11 @@
 
 Senior Software Engineer at [Great Expectations Labs](https://github.com/greatexpectationslabs) • Oregon, USA
 
-I'm a full-stack engineer who builds applications and architects systems. Most of my day-to-day work happens in private repositories at Great Expectations Labs and [Anomalous Ventures](https://github.com/anomalousventures), where I'm building data quality tools and exploring what's possible when you let AI agents write most of your code.
+I've been building web applications for almost 10 years across TypeScript, Python, Go, and whatever else the job calls for. Right now I split my time between data quality tooling at [Great Expectations Labs](https://github.com/greatexpectationslabs) and building products at [Anomalous Ventures](https://github.com/anomalousventures), my own shop where I work on civic tech, developer tools, and client projects.
 
-These days I'm particularly interested in LLM integration, agent orchestration, and modern web architectures. I've been exploring Go for backend services and experimenting with hypermedia-driven approaches (HTMX + Templ). Still love TypeScript and React for the right problems.
+Lately I've been writing a lot of Go + HTMX and using AI agents for most of my development. Still reach for TypeScript and React when they're the right tool.
+
+Here's my [resume](https://ashmortar.github.io/resume/) if you want the full picture.
 
 ## What I Work With
 
@@ -21,11 +23,11 @@ Also: HTMX, Templ, NestJS, Elixir (when the mood strikes), Neovim (extensively c
 
 ## Notable Work
 
-I contribute to [@great-expectations](https://github.com/great-expectations), the leading open-source data validation framework (10K+ stars), and build applications for the GX Cloud platform at [@greatexpectationslabs](https://github.com/greatexpectationslabs).
+I contribute to [@great-expectations](https://github.com/great-expectations), an open-source data validation framework (11K+ stars on GitHub), and build applications for the GX Cloud platform at [@greatexpectationslabs](https://github.com/greatexpectationslabs).
 
 Current live projects:
-- [Democracy Direct](https://democracy-direct.com) - Privacy first platform to find and contact your federal representatives, featuring fillable form letters, legislation search and more.
-- [Tracks](https://github.com/anomalousventures/tracks) - ⚡ Go, fast. A batteries included toolkit for hypermedia servers [(docs here)](https://anomalousventures.github.io/tracks)
+- [Democracy Direct](https://democracy-direct.com) - Privacy-first platform to find and contact your federal representatives, with fillable form letters and legislation search
+- [Tracks](https://github.com/anomalousventures/tracks) - ⚡ Go, fast. A batteries-included toolkit for hypermedia servers [(docs here)](https://anomalousventures.github.io/tracks)
 - [reserve-me.space](https://reserve-me.space) - Dynamic booking platform (built almost entirely with AI agents as an experiment)
 - [watchlist.fly.dev](https://watchlist.fly.dev) - Media tracking app
 
@@ -37,6 +39,6 @@ Side projects and experiments:
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/aaronrosspdx/) • [Email](mailto:ashmortar@gmail.com)
+[Resume](https://ashmortar.github.io/resume/) • [Anomalous Ventures](https://anomalous.ventures) • [LinkedIn](https://www.linkedin.com/in/aaronrosspdx/) • [Email](mailto:ashmortar@gmail.com)
 
 <sub>Most of my commits live in private repos at [@greatexpectationslabs](https://github.com/greatexpectationslabs) and [@anomalousventures](https://github.com/anomalousventures), so the stats don't tell the whole story.</sub>

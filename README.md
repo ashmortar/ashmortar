@@ -2,7 +2,7 @@
 
 Senior Software Engineer at [Great Expectations Labs](https://github.com/greatexpectationslabs) • Oregon, USA
 
-I've been building web applications for almost 10 years across TypeScript, Python, Go, and whatever else the job calls for. Right now I split my time between data quality tooling at [Great Expectations Labs](https://github.com/greatexpectationslabs) and building products at [Anomalous Ventures](https://github.com/anomalousventures), my own shop where I work on civic tech, developer tools, and client projects.
+I've been building web applications for almost 10 years across TypeScript, Python, Go, and whatever else the job calls for. Right now I split my time between data quality tooling at [Great Expectations Labs](https://github.com/greatexpectationslabs) and building products as [Anomalous Ventures](https://github.com/anomalousventures), my own shop where I work on civic tech and developer tools.
 
 Lately I've been writing a lot of Go + HTMX and using AI agents for most of my development. Still reach for TypeScript and React when they're the right tool.
 
